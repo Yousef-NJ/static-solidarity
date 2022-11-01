@@ -1,0 +1,20 @@
+{
+  "id": 0,
+  "tokenId": null,
+  "name": "Home Quick Links",
+  "name2": "Home Quick Links",
+  "title": "/assets/Images/1.png",
+  "dataKey": "StaticArticleComponent",
+  "type": 1,
+  "categoryId": 1405,
+  "status": 2,
+  "statusDate": "2021-11-17T11:04:05.322488+00:00",
+  "settings": "{\"default\":{\"blocks\":[{\"id\":0,\"size\":\"12\",\"element\":{\"type\":\"image\",\"setting\":{}}},{\"id\":1,\"size\":\"12\",\"element\":{\"type\":\"title\",\"setting\":{}}},{\"id\":2,\"size\":\"12\",\"element\":{\"type\":\"description\",\"setting\":{}}},{\"id\":3,\"size\":\"12\",\"element\":{\"type\":\"caption\",\"setting\":{}}},{\"id\":4,\"size\":\"12\",\"element\":{\"type\":\"sub caption\",\"setting\":{}}},{\"id\":5,\"size\":\"12\",\"element\":{\"type\":\"button\",\"setting\":{}}}],\"ImagesLink\":[],\"fromGallery\":false,\"templateOptions\":\"custom\",\"js\":\"\"},\"ar-JO\":{\"blocks\":[{\"id\":0,\"size\":12,\"element\":{\"type\":\"image\",\"setting\":{}},\"index\":0},{\"id\":2,\"size\":12,\"element\":{\"type\":\"description\",\"setting\":{}},\"index\":1},{\"id\":5,\"size\":\"12\",\"element\":{\"type\":\"button\",\"setting\":{}}}],\"ImagesLink\":[{\"artical_description\":\"<p>تواصل معنا</p>\",\"articalCaption\":null,\"articalSubCaption\":null,\"articalurl\":\"\",\"artical_image\":\"/Resources\\\\site_4\\\\Contact-us2.png\",\"creationDate\":\"2021-11-17T11:06:44.041Z\",\"type\":2,\"page\":\"اتصل-بنا\"},{\"artical_description\":\"<p>  أخبار الشركة</p>\",\"articalCaption\":null,\"articalSubCaption\":null,\"articalurl\":\"\",\"artical_image\":\"/Resources\\\\site_4\\\\News2.png\",\"creationDate\":\"2021-11-17T11:06:16.770Z\",\"type\":2,\"page\":\"آخر-الأخبار\"},{\"artical_description\":\"<p>التقارير السنوية\\n</p>\",\"articalCaption\":null,\"articalSubCaption\":null,\"articalurl\":\"\",\"artical_image\":\"/Resources\\\\site_4\\\\Medical2.png\",\"creationDate\":\"2021-11-17T11:05:22.231Z\",\"type\":2,\"NewTabLink\":true,\"page\":\"التقارير-السنوية\"}],\"fromGallery\":false,\"templateOptions\":\"custom\",\"articalImage\":false,\"articalDesc\":true,\"articaltitle\":false,\"numberColumns\":\"4\",\"js\":\"\"},\"en-US\":{\"blocks\":[{\"id\":0,\"size\":5,\"element\":{\"type\":\"image\",\"setting\":{}},\"index\":0},{\"id\":2,\"size\":12,\"element\":{\"type\":\"description\",\"setting\":{}},\"index\":1},{\"id\":5,\"size\":\"12\",\"element\":{\"type\":\"button\",\"setting\":{}}}],\"ImagesLink\":[{\"artical_description\":\"<p>Contact Us</p>\",\"articalCaption\":null,\"articalSubCaption\":null,\"articalurl\":\"\",\"artical_image\":\"/Resources\\\\site_4\\\\Contact-us2.png\",\"creationDate\":\"2021-11-17T11:06:44.041Z\",\"type\":2,\"page\":\"contact-us\"},{\"artical_description\":\"<p>News &amp; Events</p>\",\"articalCaption\":null,\"articalSubCaption\":null,\"articalurl\":\"\",\"artical_image\":\"/Resources\\\\site_4\\\\News2.png\",\"creationDate\":\"2021-11-17T11:06:16.770Z\",\"type\":2,\"page\":\"news-room\"},{\"artical_description\":\"<p>Annual Reports\\n</p>\",\"articalCaption\":null,\"articalSubCaption\":null,\"articalurl\":\"\",\"artical_image\":\"/Resources\\\\site_1\\\\Online Quotes.png\",\"creationDate\":\"2021-11-17T11:05:22.231Z\",\"type\":2,\"NewTabLink\":true,\"page\":\"annual-reports\"}],\"fromGallery\":false,\"templateOptions\":\"custom\",\"articalImage\":false,\"articalDesc\":true,\"articaltitle\":false,\"numberColumns\":\"4\",\"js\":\"\"}}",
+  "createdById": 1,
+  "creationDate": "2021-11-17T11:04:05.322458+00:00",
+  "siteId": 0,
+  "modifiedById": 62202,
+  "modificationDate": "2022-03-29T07:51:55.173961+00:00",
+  "userId": 0,
+  "category": null
+}

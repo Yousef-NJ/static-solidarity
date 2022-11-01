@@ -1,0 +1,20 @@
+{
+   "id":0,
+   "tokenId":null,
+   "name":"ESKA-boat",
+   "name2":"ESKA-boat",
+   "title":"/assets/Images/Paragraph.png",
+   "dataKey":"ParagraphComponent",
+   "type":1,
+   "categoryId":1405,
+   "status":1,
+   "statusDate":"2021-12-28T12:10:37.037641+00:00",
+   "settings":"{\"default\":{\"paragraph\":\"                                <div class=\\\"copy-right\\\"><a class=\\\"tooltip-cont\\\" target=\\\"_blank\\\" href=\\\"https://www.eskadenia.com/\\\"><img width=\\\"37\\\" height=\\\"34\\\" alt=\\\"ESKA\\\" src=\\\"/Resources/site_4/eska_boat.svg\\\">\\n<span class=\\\"tooltiptext\\\">Powered by ESKADENIA<sup>®</sup> Software, a product &amp; market-oriented organization that assists enterprises &amp; promotes businesses by use of highly effective products, IT solutions &amp; tools.</span></a></div>   \"},\"ar-JO\":{\"paragraph\":\"<div class=\\\"\\\"><a class=\\\"tooltip-cont\\\" target=\\\"_blank\\\" href=\\\"https://www.eskadenia.com/\\\"><img width=\\\"37\\\" height=\\\"34\\\" alt=\\\"ESKA\\\" src=\\\"/Resources/site_4/eska_boat.svg\\\">\\n<span class=\\\"tooltiptext\\\">طُوّر بواسطة اسكدنيا للبرمجيّات.\\nشركة اسكدنيا متخصّصة في مجال تصميم وتطوير وبرمجة النُظم المعلوماتية لتلبية\\nاحتياجات سوق العمل وذلك باستخدام الاستراتيجيّات والأدوات والحُلول التقنيّة\\nالمُتقدّمة والفعّالة</span></a></div>  \"},\"en-US\":{\"paragraph\":\"                              <div class=\\\"copy-right\\\"><a class=\\\"tooltip-cont\\\" target=\\\"_blank\\\" href=\\\"https://www.eskadenia.com/\\\"><img width=\\\"37\\\" height=\\\"34\\\" alt=\\\"ESKA\\\" src=\\\"/Resources/site_4/eska_boat.svg\\\">\\n<span class=\\\"tooltiptext\\\">Powered by ESKADENIA<sup>®</sup> Software, a product &amp; market-oriented organization that assists enterprises &amp; promotes businesses by use of highly effective products, IT solutions &amp; tools.</span></a></div> \"}}",
+   "createdById":60143,
+   "creationDate":"2021-12-28T12:10:37.037584+00:00",
+   "siteId":0,
+   "modifiedById":60108,
+   "modificationDate":"2022-01-09T13:09:41.204567+00:00",
+   "userId":0,
+   "category":null
+}
